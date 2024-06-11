@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="image_processing">
+		<CBX_INST_ENTRY INSTANCE_NAME="|image_processing|RgbImageLoader:img_color|ROM1:image|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_l181.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

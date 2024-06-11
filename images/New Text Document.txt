@@ -1,0 +1,6 @@
+Height: 78
+	Width: 117
+	Memory size: 9126
+	Pixel depth: 24b
+	Address Width: 14
+	RAM usage: 219024 bits (79.22%)
