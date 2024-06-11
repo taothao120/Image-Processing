@@ -1,0 +1,100 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing
+T_opt1
+!s110 1718115300
+VQ;QeYA<O?_eElI:BZPi_O0
+Z1 04 13 4 work tb_simulation fast 0
+=1-10a51d36dca6-66685be3-3cc-64c
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt1
+Z4 OL;O;2020.4;71
+R0
+T_opt2
+!s110 1717560024
+VGkKY`Z;l@`F_ARlcfi?N22
+R1
+=1-10a51d36dca6-665fe2d7-393-1248
+R2
+R3
+n@_opt2
+R4
+R0
+vimage_read
+!s110 1717688827
+!i10b 1
+!s100 <FXXFRJ?nzYc_ibOW5Ozb1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5EoEk3o9mRaohoSb_@8O:3
+R0
+w1717688820
+8C:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/image_read.v
+FC:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/image_read.v
+!i122 108
+L0 6 449
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1717688827.000000
+!s107 parameter.v|C:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/image_read.v|
+!s90 -reportprogress|300|-work|work|C:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/image_read.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vimage_write
+!s110 1718115332
+!i10b 1
+!s100 H;Ic0N7^H@hYiZ[3o`>lj3
+R5
+Io630Ye`7G2P[G1V1YVNL60
+R0
+w1718115279
+8C:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/image_write.v
+FC:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/image_write.v
+!i122 115
+L0 4 139
+R6
+R7
+r1
+!s85 0
+31
+Z9 !s108 1718115332.000000
+!s107 C:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/image_write.v|
+!s90 -reportprogress|300|-work|work|C:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/image_write.v|
+!i113 0
+R8
+R3
+vtb_simulation
+!s110 1718115333
+!i10b 1
+!s100 5omT?VAYc4Bj<7D;@hol62
+R5
+I6lPS;5ng2h=^D@_9VdgH]0
+R0
+w1714276454
+8C:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/tb_simulation.v
+FC:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/tb_simulation.v
+!i122 116
+L0 8 69
+R6
+R7
+r1
+!s85 0
+31
+R9
+!s107 parameter.v|C:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/tb_simulation.v|
+!s90 -reportprogress|300|-work|work|C:/Work_places/Nam3_ki2/FPGA-Verilog/Final_Project/Verilog_Image_Processing/tb_simulation.v|
+!i113 0
+R8
+R3
